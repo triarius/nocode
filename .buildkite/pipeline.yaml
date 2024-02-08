@@ -1,2 +1,3 @@
 steps:
   - command: echo hello $Foot $FOO
+  - command: bash -c "env | grep '^F'"
