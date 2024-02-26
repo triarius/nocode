@@ -1,0 +1,6 @@
+[submodule "nocode"]
+	path = nocode
+	url = git@github.com:kelseyhightower/nocode.git
+[submodule "build-test-private"]
+	path = build-test-private
+	url = git@github.com:triarius/build-test-private.git
